@@ -213,3 +213,8 @@ fieldset.field { border: 0; margin: 0; padding: 0; min-width: 0; }
   .hero { padding: 64px 0 72px; }
   .form-card { padding: 22px; }
 }
+
+.legal ul { color: var(--muted); padding-left: 22px; margin: 12px 0 0; }
+.legal li { margin-top: 6px; }
+.legal a { color: var(--teal-dark); }
+.legal .updated { color: var(--muted); font-size: 15px; margin-top: 10px; }
